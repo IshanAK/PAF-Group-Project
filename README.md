@@ -7,10 +7,11 @@ Search
 Checkout
 Administration
 REST API
-Get the code:
+
+Get the code: https://github.com/IshanAK/PAF-GroupProject.git
 Clone the repository:
 
- $ git clone https://github.com/IshanAK/PAF-Group-Project.git
+$ git clone https://github.com/IshanAK/PAF-GroupProject.git
 To build the application:
 From the command line with Maven installed:
 
