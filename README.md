@@ -1,5 +1,4 @@
-# PAF-GroupProject
-SellNBye is an e-commerce system, which provides a platform for the registered sellers to advertise their products and registered buyers to order and purchase them.;
+SellNBye is an e-commerce system, which provides a platform for the registered sellers to advertise their products and registered buyers to order and purchase them.
 
 Shopping cart
 Catalogue
@@ -55,12 +54,14 @@ password : password
 
 The instructions above will let you run the application with default settings and configurations. Please read the instructions on how to connect to MySQL, configure an email server and configure other subsystems
 
-Group Details:0
+Group Details:
 
-Group ID : 403-G8	
-Student ID & Name :
-IT17083638 – I.A. Kandamby 
-IT17118514 – S. Niluxshan 
-IT17085786 – Mannakkara D.N. 
-IT17063388 – Ranaweera R.C. 
+Group ID : 403-G8
+
+Student ID and Name:
+
+IT17083638 – I.A. Kandamby
+IT17118514 – S. Niluxshan
+IT17085786 – Mannakkara D.N.
+IT17063388 – Ranaweera R.C.
 IT17083314 – H.M. Yasas Rusiru
