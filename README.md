@@ -61,7 +61,7 @@ Group ID : 403-G8
 Student ID and Name:
 
 IT17083638 – I.A. Kandamby
-IT17118514 – S. Niluxshan
+IT17037648 - S. Nilaxshan
 IT17085786 – Mannakkara D.N.
 IT17063388 – Ranaweera R.C.
 IT17083314 – H.M. Yasas Rusiru
